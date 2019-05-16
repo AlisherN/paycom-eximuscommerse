@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+    <id>paycom</id>
+    <name>Paycom</name>
+    <class>PaycomPaymentSystem</class>
+    <version>1.0</version>
+</system>
